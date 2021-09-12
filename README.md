@@ -2,12 +2,12 @@
   <br>
   <img src="./icon.png" alt="Ballerini Theme Icon" width="100">
   <br>
-  Ballerini Theme for <a href="https://website-link.com">?Name?</a>
+  Ballerini Theme for <a href="https://www.google.com/intl/pt-BR/chrome/">Google Chrome</a>
   <br>
 </h1>
 
 <p align="center">
-  <strong>Dark Brown theme for <a href="https://website-link.com">?Name?</a></strong>
+  <strong>Dark Brown theme for <a href="https://www.google.com/intl/pt-BR/chrome/">Google Chrome</a></strong>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="./screenshot.png" alt="Ballerini Theme Screenshot for ?Name?">
+  <img src="./screenshot.png" alt="Ballerini Theme Screenshot for Google Chrome">
 </p>
 
 ## Install
@@ -32,11 +32,11 @@ All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 ## Team
 
-This theme is maintained by the following people/person and bunch of [awesome contributors](https://github.com/Ballerini-Theme/template/graphs/contributors).
+This theme is maintained by the following people/person and bunch of [awesome contributors](https://github.com/Ballerini-Theme/google-chrome/graphs/contributors).
 
-| [![Alpha Vylly](https://github.com/AlphaLawless.png?size=100)](https://github.com/AlphaLawless) |
+| [![Alpha Vylly](https://github.com/AlphaLawless.png?size=100)](https://github.com/AlphaLawless) | [![Gabriel Mendonça](https://github.com/Gbennemann.png?size=100)](https://github.com/Gbennemann)] |
 | ---------------------------------------------------------------------------------------------- | 
-| [Alpha Vylly](https://github.com/AlphaLawless)                                                 |
+| [Alpha Vylly](https://github.com/AlphaLawless) |[Gabrel Mendonça](https://github.com/Gbennemann)                                                 |
 
 ## License
 
