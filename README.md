@@ -34,7 +34,7 @@ All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 This theme is maintained by the following people/person and bunch of [awesome contributors](https://github.com/Ballerini-Theme/google-chrome/graphs/contributors).
 
-| [![Alpha Vylly](https://github.com/AlphaLawless.png?size=100)](https://github.com/AlphaLawless) | [![Gabriel Mendonça](https://github.com/Gbennemann.png?size=100)](https://github.com/Gbennemann)]
+| [![Alpha Vylly](https://github.com/AlphaLawless.png?size=100)](https://github.com/AlphaLawless) | [![Gabriel Mendonça](https://github.com/Gbennemann.png?size=100)](https://github.com/Gbennemann)
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [Alpha Vylly](https://github.com/AlphaLawless) | [Gabrel Mendonça](https://github.com/Gbennemann) |
 
