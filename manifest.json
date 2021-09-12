@@ -1,8 +1,13 @@
 {
-  "name": "ThemeBeta.com",
+  "name": "Ballerini: Dark Brown Theme for Google Chrome",
   "version": "1.0",
-  "description": "",
+  "description": "The official Ballerini Theme for Google Chrome. Dark Brown Theme, pastel and cute",
   "manifest_version": 2,
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
   "theme": {
     "images": {
       "theme_frame": "images/theme_frame.png",
